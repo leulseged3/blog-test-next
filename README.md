@@ -5,3 +5,4 @@ I'm sorry I can't Implement all features because of time constrain.
 - Blogs Pagination
 - Author Detail
 - Author Blogs Pagination
+- Search/Filter Blogs
